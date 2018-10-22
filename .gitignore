@@ -1,2 +1,6 @@
 .vagrant
 *.log
+.terraform/
+terraform.tfstate*
+*key*
+terraform/var.tf
