@@ -66,7 +66,7 @@ c. Failure Management - AWS CloudFormation provides templates for the creation o
 
 ## Cost Optimization
 
-1.  The ability to avoid or eliminate unneeded cost or suboptimal resources. 
+- The ability to avoid or eliminate unneeded cost or suboptimal resources. 
 
 ### Some Principles:
 
