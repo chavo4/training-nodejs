@@ -29,5 +29,5 @@ cd /vagrant
 [ -d /usr/lib/node_modules/ ] && npm install -g --no-optional express
 ln -s /usr/lib/node_modules /vagrant/node_modules
 node server.js &
-echo "Please the following address to access the app"
+echo "Please use the following address to access the app"
 echo 'http://192.168.56.56:3000'
