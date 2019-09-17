@@ -14,7 +14,7 @@ vagrant up
 ```
 {"original_url":"https://www.github.com/chavo1","short_url":"351"}
 ```
-- change the urle in browser:
+- change the URL in your browser:
 ```
 http://192.168.56.56:3000/api/shorturl/351
 ```
