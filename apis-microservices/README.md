@@ -4,6 +4,7 @@
 
 ## How to use it:
 - clone the repo:
+
 ```
 git clone https://github.com/chavo1/training-nodejs.git
 cd training-nodejs/apis-microservices
@@ -11,7 +12,6 @@ vagrant up
 ```
 - access the app on http://192.168.56.56:3000
 - type POST URL button
-```
 - you will be redirected to http://192.168.56.56:3000/api/shorturl/new
 - the content of the page should be simmilar to this one:
 ```
