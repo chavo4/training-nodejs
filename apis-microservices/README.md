@@ -24,4 +24,3 @@ http://192.168.56.56:3000/api/shorturl/351
 - this will redirect you to:
 ```
 https://www.github.com/chavo1
-```
