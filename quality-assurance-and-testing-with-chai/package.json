@@ -1,0 +1,33 @@
+{
+  "name": "how-javascript-assertions-work",
+  "version": "0.1.20200221",
+  "description": "Quality Assurance and Testing with Chai",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test-u": "mocha --ui tdd tests/1_unit-tests.js",
+    "test-f": "mocha --ui tdd tests/2_functional-tests.js"
+  },
+  "dependencies": {
+    "express": "^5.0.0-alpha.2",
+    "body-parser": "^1.19.0",
+    "mocha": "^7.0.1",
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "zombie": "^6.1.4",
+    "cors": "^2.8.5"
+  },
+  "engines": {
+    "node": "13.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://hyperdev.com/#!/project/welcome-project"
+  },
+  "keywords": [
+    "node",
+    "hyperdev",
+    "express"
+  ],
+  "license": "MIT"
+}
